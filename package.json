@@ -1,0 +1,35 @@
+{
+  "name": "tickers-and-halts",
+  "version": "1.0.0",
+  "description": "Fetch all current trading halts and all listed stock tickers (NYSE, NASDAQ, AMEX).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsku/tickers-and-halts.git"
+  },
+  "keywords": [
+    "stocks",
+    "stock",
+    "tickers",
+    "ticker",
+    "symbols",
+    "symbol",
+    "halts",
+    "halt",
+    "nyse",
+    "nasdaq",
+    "amex"
+  ],
+  "author": "mattsku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsku/tickers-and-halts/issues"
+  },
+  "homepage": "https://github.com/mattsku/tickers-and-halts#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
