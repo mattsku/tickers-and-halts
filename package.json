@@ -1,5 +1,5 @@
 {
-  "name": "tickers-and-halts",
+  "name": "tickers-halts",
   "version": "1.0.0",
   "description": "Fetch all current trading halts and all listed stock tickers (NYSE, NASDAQ, AMEX).",
   "main": "index.js",
